@@ -29,6 +29,12 @@
 - https://www.instagram.com
 - https://www.pinterest.com
 
+## Переклад
+- https://translate.google.com
+- http://www.translate.ua/uk/on-line
+- http://www.bing.com/translator
+- https://itranslate4.eu
+
 
 ## Таксі
 - https://www.uklon.com.ua
@@ -58,14 +64,12 @@
 - https://my-hit.org
 - https://vimeo.com
 
-## Фото хостінги
-
 ## Кінобази, кіноновини
 - https://kinobaza.com.ua
 - http://kinojack.com
 - http://www.vertigo.com.ua
+- http://kinolegalno.com
 
-## Новини
 
 ## Месенджери 
 - https://telegram.org
@@ -79,6 +83,13 @@
 - http://parus.ua/ua/
 - http://www.aist.com.ua/products/universal/
 - https://delovod.ua/ 
+
+
+## Фото хостінги
+
+## Новини
+
+
 
 
 
