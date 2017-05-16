@@ -12,7 +12,7 @@
 
 
 ## Яндекс карти
-- https://www.google.com.ua/maps
+- https://www.google.com.ua/maps 
 - https://www.openstreetmap.org
 - http://wikimapia.org
 - https://maps.visicom.ua
@@ -25,9 +25,20 @@
 - https://twitter.com
 - https://www.linkedin.com
 - https://plus.google.com
-- https://medium.com
+- https://www.reddit.com 
+- https://ask.fm
+- https://www.snapchat.com
+
+
+## Соціальні фото сервіси
 - https://www.instagram.com
 - https://www.pinterest.com
+
+
+## Блоги 
+- https://medium.com
+- https://www.tumblr.com
+
 
 ## Переклад
 - https://translate.google.com
@@ -71,6 +82,7 @@
 - https://my-hit.org
 - https://vimeo.com
 
+
 ## Кінобази, кіноновини
 - http://www.imdb.com
 - https://www.themoviedb.org
@@ -98,6 +110,9 @@
 
 
 ## Фото хостінги
+- https://www.flickr.com
+- https://photos.google.com
+- http://photobucket.com
 
 ## Новини
 
