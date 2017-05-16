@@ -40,6 +40,13 @@
 - https://www.avast.ua
 - https://www.microsoft.com/uk-ua/download/details.aspx?id=5201 
 
+## Відео
+- http://megogo.net/ua
+- https://www.youtube.com
+- http://tree.tv/
+- https://my-hit.org/
+
+
 ## Фото хостінги
 
 
