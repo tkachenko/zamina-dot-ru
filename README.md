@@ -39,15 +39,25 @@
 ## Антівіруси 
 - https://www.avast.ua
 - https://www.microsoft.com/uk-ua/download/details.aspx?id=5201 
+- https://antivirus.comodo.com 
+- http://zillya.ua/
+
 
 ## Відео
 - http://megogo.net/ua
 - https://www.youtube.com
-- http://tree.tv/
-- https://my-hit.org/
+- http://tree.tv
+- https://my-hit.org
+- https://vimeo.com
 
 
 ## Фото хостінги
+
+## Новини
+
+## Месенджери 
+
+## Бугалтерія 1С  
 
 
 
