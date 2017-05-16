@@ -72,6 +72,8 @@
 - https://vimeo.com
 
 ## Кінобази, кіноновини
+- http://www.imdb.com
+- https://www.themoviedb.org
 - https://kinobaza.com.ua
 - http://kinojack.com
 - http://www.vertigo.com.ua
