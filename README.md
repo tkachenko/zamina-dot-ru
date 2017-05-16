@@ -92,6 +92,9 @@
 - http://parus.ua/ua/
 - http://www.aist.com.ua/products/universal/
 - https://delovod.ua/ 
+- https://apex.oracle.com/en
+- http://b1-sap.com.ua
+- https://www.microsoft.com/ru-ru/dynamics365/home
 
 
 ## Фото хостінги
