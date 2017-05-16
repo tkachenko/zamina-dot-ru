@@ -50,6 +50,13 @@
 - https://www.gmx.com
 
 
+## Пошта для домена 
+- https://www.zoho.eu/workplace
+- https://gsuite.google.com
+- https://www.zimbra.com
+- https://products.office.com/en-us/business/office-365-business-essentials
+
+
 ## Антівіруси 
 - http://zillya.ua
 - https://www.avast.ua
