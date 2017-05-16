@@ -34,10 +34,35 @@
 - https://www.instagram.com
 - https://www.pinterest.com
 
+## Фото хостінги
+- https://www.flickr.com
+- https://photos.google.com
+- http://photobucket.com
+
+
+## Міграція і бекап данних з соціальних мереж
+- http://www.cloudbuckit.com
+- https://www.odrive.com
+
+
+## Агрегатори новин
+- https://news.google.com
+- http://news.meta.ua
+- http://vsetke.com
+- http://news.i.ua
+- http://top.io/ua
+
 
 ## Блоги 
 - https://medium.com
 - https://www.tumblr.com
+
+
+## Месенджери 
+- https://telegram.org
+- https://www.messenger.com
+- https://www.whatsapp.com
+- https://www.viber.com/
 
 
 ## Переклад
@@ -57,6 +82,7 @@
 - https://www.google.com/gmail
 - https://mail.ukr.net
 - http://mail.i.ua
+- https://outlook.live.com
 - https://protonmail.com
 - https://www.gmx.com
 
@@ -81,6 +107,7 @@
 - http://tree.tv
 - https://my-hit.org
 - https://vimeo.com
+- http://kinogo.club
 
 
 ## Кінобази, кіноновини
@@ -92,13 +119,6 @@
 - http://kinolegalno.com
 
 
-## Месенджери 
-- https://telegram.org
-- https://www.messenger.com
-- https://www.whatsapp.com
-- https://www.viber.com/
-
-
 ## Бугалтерія 1С  
 - http://www.debet.kiev.ua/
 - http://parus.ua/ua/
@@ -107,16 +127,5 @@
 - https://apex.oracle.com/en
 - http://b1-sap.com.ua
 - https://www.microsoft.com/ru-ru/dynamics365/home
-
-
-## Фото хостінги
-- https://www.flickr.com
-- https://photos.google.com
-- http://photobucket.com
-
-## Новини
-
-
-
 
 
