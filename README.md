@@ -123,6 +123,7 @@
 ## Бугалтерія 1С  
 - http://www.debet.kiev.ua/
 - http://parus.ua/ua/
+- http://www.apec.com.ua
 - http://www.aist.com.ua/products/universal/
 - https://delovod.ua/ 
 - https://apex.oracle.com/en
