@@ -18,6 +18,7 @@
 - https://maps.visicom.ua
 - https://www.mapquest.com
 - https://en.mappy.com 
+- https://www.waze.com
 
 
 ## Соціальні мережі 
@@ -122,11 +123,11 @@
 ## Бугалтерія 1С  
 - http://www.debet.kiev.ua/
 - http://parus.ua/ua/
-- http://www.apec.com.ua
 - http://www.aist.com.ua/products/universal/
 - https://delovod.ua/ 
 - https://apex.oracle.com/en
 - http://b1-sap.com.ua
 - https://www.microsoft.com/ru-ru/dynamics365/home
+- http://www.it.ua/
 
 
