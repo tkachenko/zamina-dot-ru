@@ -18,6 +18,7 @@
 - https://maps.visicom.ua
 - https://www.mapquest.com
 - https://en.mappy.com 
+- https://www.waze.com
 
 
 ## Соціальні мережі 
@@ -128,5 +129,6 @@
 - https://apex.oracle.com/en
 - http://b1-sap.com.ua
 - https://www.microsoft.com/ru-ru/dynamics365/home
+- http://www.it.ua/
 
 
