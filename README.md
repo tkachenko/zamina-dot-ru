@@ -130,6 +130,7 @@
 - https://apex.oracle.com/en
 - http://b1-sap.com.ua
 - https://www.microsoft.com/ru-ru/dynamics365/home
-- http://www.it.ua/
+- http://www.it.ua
+- http://www.itogo.ua
 
 
