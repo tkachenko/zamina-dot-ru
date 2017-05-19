@@ -27,6 +27,7 @@
 - https://www.linkedin.com
 - https://plus.google.com
 - https://www.reddit.com 
+- https://www.diasporafoundation.org/
 - https://ask.fm
 - https://www.snapchat.com
 
