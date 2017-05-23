@@ -14,6 +14,7 @@
 ## Яндекс карти
 - https://www.google.com.ua/maps 
 - https://www.openstreetmap.org
+- http://navizor.com
 - http://wikimapia.org
 - https://maps.visicom.ua
 - https://www.mapquest.com
@@ -35,6 +36,7 @@
 ## Соціальні фото сервіси
 - https://www.instagram.com
 - https://www.pinterest.com
+
 
 ## Фото хостінги
 - https://www.flickr.com
