@@ -3,6 +3,7 @@
 > Список аналогів сервісів з зони .ru які попадають під санкції https://ain.ua/2017/05/16/poroshenko-podpisal-ukaz-o-blokirovke-v-ukraine-vkontakte-yandeksa-i-mail-ru  
 
 ## ВКонтакте та Яндекс музика 
+- https://open.spotify.com
 - https://soundcloud.com  
 - http://www.deezer.com
 - http://tunein.com 
